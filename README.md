@@ -3,4 +3,4 @@
 
 #开发环境：
 ###os:ubuntu12.04
-###db:mysql
+###database:mysql
