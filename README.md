@@ -7,6 +7,13 @@
 
 >database:mysql
 
+##开发技术
+>linux c
+
+>mysql
+
+>gtk
+
 ##功能：
 >私聊
 
