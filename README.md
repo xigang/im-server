@@ -1,19 +1,19 @@
 # im-server
-#### 简介：
-此聊天软件是一个基于局域网的类似QQ即时通讯的软件
+#### Introduction：
+This is a LAN-based chat software like QQ instant messaging software.
 
-#### 开发环境：
->* os:ubuntu12.04
->* database:mysql
+#### Development environment
+* os:ubuntu12.04
+* database:mysql
 
-#### 开发技术
-> * linux c
-> * mysql
-> * gtk
+#### Development Technology:
+* linux c
+* mysql
+* gtk
 
-#### 功能：
-> * 私聊
-> * 群聊
-> * 传输文件
-> * 选择字体及颜色
-> * 保存聊天记录
+#### Feature：
+* One to one chat
+* Group chat
+* ransfer files
+* Select font and color
+* Save chat logs
