@@ -3,9 +3,8 @@
 此聊天软件是一个基于局域网的类似QQ即时通讯的软件
 
 #### 开发环境：
-
- os:ubuntu12.04
- database:mysql
+>* os:ubuntu12.04
+>* database:mysql
 
 #### 开发技术
 > * linux c
