@@ -2,16 +2,16 @@
 #### Introduction
 This is a LAN-based chat software like QQ instant messaging software.
 
-#### Development environment
+#### Environment
 * os:ubuntu12.04
 * database:mysql
 
-#### Development Technology
+#### Technology
 * linux c
 * mysql
 * gtk
 
-#### Feature
+#### Features
 * One to one chat
 * Group chat
 * ransfer files
