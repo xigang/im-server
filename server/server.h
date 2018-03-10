@@ -1,7 +1,3 @@
-/*
- * linpop-I.h
- * created on 1.5.2011, by LianB
- */
 
 #ifndef _LINPOP_I_H
 #define _LINPOP_I_H 1
